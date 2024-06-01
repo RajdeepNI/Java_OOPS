@@ -1,0 +1,21 @@
+/* inputa*/
+
+#1
+
+I/P                                         O/P
+Rajdeep Gupta                               true
+21 BH 1234 AA                               true
+9876543210                                  true
+free                                        true
+1                                           true
+25/06/2023                                  true
+
+#2
+
+I/P                                         O/P
+Rajdeep Gupta                               true
+21 BH 124 AZ                                false
+9999999999                                  false
+free                                        true
+10                                          false
+25/06/2023                                  true
