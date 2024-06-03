@@ -1,4 +1,4 @@
-/* inputa*/
+/* input*/
 
 #1
 
