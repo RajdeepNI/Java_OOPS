@@ -1,0 +1,21 @@
+/*Input Details*/
+
+#1
+
+I/P                                  O/P
+9876543210                     NUN-Raj-2-21-9876543210                 
+Rajdeep
+UPI
+21/09/2023
+NUN2
+2
+
+#2
+
+I/P                                  O/P
+9876543210                     Kindly select a correct movie!                 
+Rajdeep
+UPI
+21/09/2023
+IRONMAN
+2
